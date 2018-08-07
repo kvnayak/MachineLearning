@@ -1,10 +1,9 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Vibha Nayak
+August 10th, 2018
 
 ## Proposal
-_(approx. 2-3 pages)_
 
 ### Domain Background
 _(approx. 1-2 paragraphs)_
